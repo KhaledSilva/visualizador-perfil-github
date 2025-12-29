@@ -1,1 +1,0 @@
-// O código foi modularizado. Use main.js como ponto de entrada.

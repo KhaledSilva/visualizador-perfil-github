@@ -14,6 +14,10 @@ Esta aplicação permite que você insira um nome de usuário do GitHub e veja a
 -   **Estado de Carregamento:** Fornece feedback visual enquanto os dados estão sendo buscados na API.
 -   **Design Responsivo:** Adaptável a diferentes tamanhos de tela.
 
+## 🔗 Links
+
+- Site no ar URL: [Clique-aqui](https://khaledsilva.github.io/visualizador-perfil-github/)
+
 ## 💻 Tecnologias Utilizadas
 
 -   HTML5

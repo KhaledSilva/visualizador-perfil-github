@@ -22,8 +22,8 @@ export function mostrarPerfil(container, dadosUsuario, reposUsuario) {
         <div class="profile-card">
             <img src="${dadosUsuario.avatar_url}" alt="Avatar de ${dadosUsuario.name}" class="profile-avatar"/>
             <div class="profile-info">
-                <h2>${dadosUsuario.name}</h2>
-                <p>${dadosUsuario.bio || 'Não possui bio cadastrada 😥.'}</p>
+                <h2>${dadosUsuario.name ||"Não possui nome cadastrado 😥."}</h2>
+                <p>${dadosUsuario.bio || "Não possui bio cadastrada 😥."}</p>
             </div>
         </div>
         <div class="profile-counters">
